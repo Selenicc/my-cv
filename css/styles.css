@@ -1,0 +1,144 @@
+.top-container{
+    background-color: #e4f9e5;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.pro{
+    text-decoration: underline;
+}
+
+body{
+   margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.programmer{
+    font-size: 2.5rem;
+}
+
+a{
+    color: #11999E;
+    padding: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+p{
+    line-height: 2;
+}
+
+.coding-img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.football-img{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+hr{
+    width: 5%;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    border-style: dotted;
+    border-top: 0;
+
+}
+
+.profile-pic {
+    width: 25%;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0px 20px;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 13px;
+    padding: 20px 0;
+}
+
+.intro{
+    width: 40%;
+    margin: auto;
+}
+
+.contact-msg{
+    width: 40%;
+    margin: auto;
+}
